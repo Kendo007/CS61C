@@ -1,0 +1,4 @@
+1. find
+2. top
+3. exit
+4. diff
